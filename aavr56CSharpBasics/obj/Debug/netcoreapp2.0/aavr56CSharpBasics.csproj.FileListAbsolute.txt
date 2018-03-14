@@ -1,0 +1,11 @@
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\bin\Debug\netcoreapp2.0\aavr56CSharpBasics.deps.json
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\bin\Debug\netcoreapp2.0\aavr56CSharpBasics.runtimeconfig.json
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\bin\Debug\netcoreapp2.0\aavr56CSharpBasics.runtimeconfig.dev.json
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\bin\Debug\netcoreapp2.0\aavr56CSharpBasics.dll
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\bin\Debug\netcoreapp2.0\aavr56CSharpBasics.pdb
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.csprojResolveAssemblyReference.cache
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.csproj.CoreCompileInputs.cache
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.AssemblyInfoInputs.cache
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.AssemblyInfo.cs
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.dll
+C:\Program Files\Mono\aavr56CSharpBasics\aavr56CSharpBasics\obj\Debug\netcoreapp2.0\aavr56CSharpBasics.pdb
